@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.network {
+  height: 70px;
+  width: 70px;
+  margin: 0 0 0 0;
+  image-resolution: from-image;
+  align-content: center;
+}
+
+.skill {
+  float: left;
+  right: auto;
+  position: relative;
+  height: 200px;
+  width: 200px;
+  image-resolution: from-image;
+  align-content: flex-end;
+}
+
+.skill2 {
+  float: right;
+  left: auto;
+  position: relative;
+  height: 200px;
+  width: 200px;
+  image-resolution: from-image;
+  align-content: flex-end;
+}
+
+.name {
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-family: 'New Tegomin', serif;
+}
+
+.profilepic {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  position: relative align-content: center;
+  border-radius: 50%;
+}
+
+.skillsheading {
+  font-family: 'Averia Serif Libre', serif;
+}
+
+.edu {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.lastimg {
+  color: inherit;
+}
+
+tr:nth-child(even) {
+  background-color: #aad8d3
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: auto;
+  text-align: inherit;
+  line-height: 2;
+}
+
+.hello {
+  height: 200px;
+  width: 200px;
+  position: center;
+  right: 90px;
+}
+
+.linkedin {
+  height: 50px;
+  width: 50px;
+  margin: 5%;
+}
+
+.twitter {
+  height: 50px;
+  width: 50px;
+  margin: 5%;
+}
+
+.facebook {
+  height: 50px;
+  width: 50px;
+  margin: 5%
+}
+
+.instagram {
+  height: 50px;
+  width: 50px;
+  margin: 5%
+}
+
+.github {
+  height: 50px;
+  width: 50px;
+  margin: 5%
+}
+
+.lastimg {
+  height: 300px;
+  width: 300px;
+}
+
+.hello {
+  height: 200px;
+  width: 300px;
+}
+.contact-me{
+  background-color: white;
+}
+.box{
+  height: 200px;
+  width: 400px;
+  display: inline-block;
+ padding: 5px;
+ position: relative;;
+}
